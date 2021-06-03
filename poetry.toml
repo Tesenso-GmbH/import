@@ -1,0 +1,3 @@
+[repositories]
+[repositories.tesenso]
+url = "https://pypi.tesenso.cloud/"
