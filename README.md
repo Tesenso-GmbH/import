@@ -1,6 +1,6 @@
 # Data Import
 
-This project contains some useful scripts and tools to upload data to thingsboard from (hopefully) various sources.
+This project contains some useful scripts and tools to upload data to Tesenso IoT Cloud from (hopefully) various sources.
 
 ## Getting started
 
