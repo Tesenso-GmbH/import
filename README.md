@@ -1,4 +1,4 @@
-# Thingsboard Import
+# Data Import
 
 This project contains some useful scripts and tools to upload data to thingsboard from (hopefully) various sources.
 
